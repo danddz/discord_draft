@@ -28,8 +28,8 @@ import files_random_pvp.random_pvp as random_pvp
 
 import database.database as database
 
-token_test = 'OTc4NDAyMTU2MTc4NzE0NzA1.GB7HAw.84DvES64T72_sEsnGl4eytYbNpY0xVAUBIYFZM'
-token_main = 'OTc2NDMxMzg1MTY0MjgzOTE1.G7cpn0.vW9A7lVrgCX1iLHg1Z9_F9PfJ1DyUEWJSd6YI8'
+token_test = ''
+token_main = ''
 intents = discord.Intents.default()
 intents.message_content = True
 
